@@ -6,6 +6,9 @@
 
 body{
     background-color: black;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
 
 .card{
@@ -14,6 +17,49 @@ body{
     justify-content: center;
     color: white;
     padding: 25px;
+    font-family: 'Nunito Sans';
     gap: 15px;
+    color: gainsboro;
+    border: 2px rgb(255, 247, 247) dashed;
+    padding: 35px;
+    border-radius: 15px;
+    margin: 150px;
 }
 
+.h{
+    font-family: 'Nunito Sans';
+    color: #cefad5;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.h:hover{
+    text-shadow: 2px 2px 2px #003530 ;
+}
+
+button{
+    padding: 4px;
+    background-color: rgb(255, 255, 254);
+    color: rgb(187, 127, 37);
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 50px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+input{
+    width: 90px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
