@@ -2,10 +2,26 @@
     margin: 0;
     padding: 0;
     box-sizing: 0;
+    background-color: black;
+}
+
+body{
+    margin: 200px;
 }
 
 .text{
     display: grid;
     align-items: center;
     justify-content: center;
+    padding: 40px;
+    margin: 40px;
+    font-family: 'Consolas';
+    border: rgb(241, 161, 194) 2px solid;
+    border-radius: 15px;
+    box-shadow: rgb(160, 44, 83) 10px 10px 5px ;
+    color: rgb(90, 17, 41);
+}
+
+.text:hover{
+    color: rgb(90, 31, 52);
 }
