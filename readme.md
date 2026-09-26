@@ -1,5 +1,8 @@
 <h1>Journal: organ shop</h1>
 
+<img width="375" height="478" alt="image" src="https://github.com/user-attachments/assets/a8d23473-f4d3-4f91-b6d3-c23ed831ce18" />
+
+
 <h2>what is this?</h2>
 <li>A dummy organ shop disguised in the name journal</li>
 
